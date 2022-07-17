@@ -42,7 +42,7 @@ const App = () => {
       </button>
       <button onClick={onClickSwitchFaceFlag}>on/off</button>
       <p>{num}</p>
-      {faceShowFlag && <p>(^o^)</p>}
+      {faceShowFlag && <p>(^^)</p>}
     </>
   );
 };
